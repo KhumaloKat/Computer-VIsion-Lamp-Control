@@ -2,7 +2,7 @@
 
 ## FEATURES
 
--Control light intensity using distance of the between the thumb and index finger of the hand detected
+-Control robot hand using hand detection module by sending an array of fingers you put up
 
 ## INSTALLATION:
 
@@ -28,12 +28,6 @@
 
 - Arduino
 
-- H-Bridge
-
-- 12V Lamp
-
-- 12v 3A adapter
-
-- Switch
+- Robot hand intergrated using 5 servos
 
 
