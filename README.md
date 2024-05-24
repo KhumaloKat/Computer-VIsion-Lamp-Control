@@ -25,9 +25,13 @@
 ***Components***
 
 -Arduino
+
 -H-Bridge
+
 -12V Lamp
+
 -12v 3A adapter
+
 -Switch
 
 
