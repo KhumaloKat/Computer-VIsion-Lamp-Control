@@ -1,4 +1,4 @@
-***Computer-VIsion-Lamp-Control***
+***Computer-Vision-Lamp-Control***
 
 ## FEATURES
 
@@ -8,30 +8,32 @@
 
 ***IDE***
 
--Pycharm Community Edition.
+- Pycharm Community Edition.
+  
+- Arduino IDE
 
 ***Packages installed***
 
--Mediapipe.
+- Mediapipe.
 
--cvzone library.
+- cvzone library.
 
--Opencv-python.
+- Opencv-python.
 
--PySerial
+- PySerial
 
--Pillow.
+- Pillow.
 
 ***Components***
 
--Arduino
+- Arduino
 
--H-Bridge
+- H-Bridge
 
--12V Lamp
+- 12V Lamp
 
--12v 3A adapter
+- 12v 3A adapter
 
--Switch
+- Switch
 
 
